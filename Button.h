@@ -6,4 +6,5 @@ public:
 	void draw(glWindow* wnd);
 	void update(glWindow* wnd, long dT);
 };
+//comment
 
